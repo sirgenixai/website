@@ -1,0 +1,26 @@
+- id: blogTitle
+  translation: Latest Post
+- id: readMore
+  translation: Read more
+- id: viewAllPosts
+  translation: View All
+- id: share
+  translation: Share
+- id: aboutAuthor
+  translation: About author
+- id: authorsPosts
+  translation: Author's posts
+- id: all
+  translation: All
+- id: about
+  translation: About Us
+- id: services
+  translation: Services
+- id: solutions
+  translation: Solutions
+- id: team
+  translation: Team
+- id: blog
+  translation: Blog
+- id: contact
+  translation: Contact

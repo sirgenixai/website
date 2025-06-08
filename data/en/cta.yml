@@ -1,0 +1,13 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-main-cta.jpg"
+  bg_image_webp : "images/backgrounds/bg-main-cta.webp"
+  title : "Tailor-made Solutions & High Tech Services"
+  content : >
+    A library of ready-made customisable solutions, modules and frameworks along with
+    reasonably priced services over a wide range of modern technologies and languages.
+  button:
+    enable : true
+    label : "Start a project with us"
+    link : "#contact"

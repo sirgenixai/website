@@ -1,0 +1,46 @@
+#################################### Solutions ###############################
+solutions:
+  enable : true
+  title : Our Solutions
+  solutions_item :
+    - name : Threat Mitigation
+      image : images/solutions/solutions/threat.png
+      image_webp : images/solutions/solutions/threat.webp
+      categories : ["Solutions"]
+      content : Malware, Ransomware, Phishing (URL filtering &amp; Malicious Email Links).
+      link : "#"
+
+    - name : Data and IP Protection
+      image : images/solutions/solutions/protection.png
+      image_webp : images/solutions/solutions/protection.webp
+      categories : ["Solutions"]
+      content : Fine-grained Data Access Control for OUs, Groups and Individuals.
+      link : "#"
+
+    - name : Compliances &amp; Regulations
+      image : images/solutions/solutions/compliances.png
+      image_webp : images/solutions/solutions/compliances.webp
+      categories : ["Solutions"]
+      content : Stay one step ahead in adhering to Security Compliances.
+      link : "#"
+
+    - name : Work From Home
+      image : images/solutions/solutions/wfh.png
+      image_webp : images/solutions/solutions/wfh.webp
+      categories : ["Solutions"]
+      content : Securely Work from Anywhere and at Anytime.
+      link : "#"
+
+    - name : Privileged Identity Management
+      image : images/solutions/products/pim.png
+      image_webp : images/solutions/products/pim.webp
+      categories : ["Products"]
+      content : Manage, Control &amp; Monitor Enterprise Assets and Resources.
+      link : "#"
+
+    - name : Firewall Analyser
+      image : images/solutions/products/rba.png
+      image_webp : images/solutions/products/rba.webp
+      categories : ["Products"]
+      content : Analysis of Firewall Rules for Risk Indentification &amp; Remediation.
+      link : "#"

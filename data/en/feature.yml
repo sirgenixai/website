@@ -1,0 +1,65 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-feature.jpg
+  image_webp : images/about/about-feature.webp
+  title : We're An AI First Software Services Hub.
+  content : >
+    We’re your strategic partners. With deep domain expertise, cutting-edge AI tools,
+    and a proven track record in building high-performing teams, we help you scale smart and fast.
+  feature_item : 
+    - title : Products, Solutions &amp; Components
+      icon : ti-package
+      type: solutions
+      content : >
+        Distribution of Cyber Security Products, and White Label Security Solutions
+        and Components in partnership with Global Enterprises.
+
+    - title : Threat Mitigation
+      icon : ti-shield
+      type: services
+      content : >
+        Remote Browser Isolation, PIM, EDR, WAF, MDM, MAM, VPN, SSO, MFA/2FA,
+        Vulnerability Assessment of Enterprise Assets - SSL/TLS scanner, Firewall Analyser.
+
+    - title : Microservices
+      icon : ti-layout-grid4
+      type: services
+      content : >
+        Design and implement Highly Available, Scalable and Secure Systems using
+        modern languages and frameworks including Go, Python, Java, Scala, C++.
+
+    - title : Data Processing, Streaming &amp; Storage
+      icon : ti-harddrives
+      type: services
+      content : >
+        MySQL, PostgreSQL, CockroachDB, Elastic, Logstash, Beats, Cassandra, Spark,
+        Kafka, gRPC, ZeroMQ, nanomsg, Protobuf, OPA.
+
+    - title : Management Portals and Dashboards
+      icon : ti-layout
+      type: services
+      content : >
+        Web and Mobile Apps with ReactJS, React Native, Kibana Plugins. RBAC and Policy
+        Engines, API Server Design, Database Design.
+
+    - title : Cloud Technologies
+      icon : ti-cloud
+      type: devsecops
+      content : >
+        Design Deployments with Deep Integration on VPS, Databases, Orchestration, Serverless
+        and other services from providers such as AWS, Azure, Google Cloud.
+
+    - title : Threat &amp; Risk Assessment
+      icon : ti-panel
+      type: devsecops
+      content : >
+        CI/CD Pipelines enhanced with tools for Vulnerability Analysis of Libraries and
+        Components, AI/ML based Data Modeling, Analysis and Assessment Modules.
+
+    - title : Browser Internals
+      icon : ti-world
+      type: services
+      content : >
+        Chromium and WebKit browser engines customised and applied to multiple domains
+        including Cyber Security, Web Performance Optimisation.

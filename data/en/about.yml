@@ -1,0 +1,23 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-dropbox # themify icon pack : https://themify.me/themify-icons
+    title : Solutions
+    type: solutions
+    content : We focus on delivering high-quality code, quick execution, and cost-effective growth for companies that want to move fast without compromising on talent.
+    link : "#solutions"
+
+  - icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+    title : Services
+    type: services
+    content : End-to-end recruitment for tech roles, Fast team ramp-up with pre-vetted developers, AI-powered sourcing & screening, Strategic support for team scaling.
+    link : "#services"
+
+  - icon : ti-infinite # themify icon pack : https://themify.me/themify-icons
+    title : Strategy
+    type: devsecops
+    content : We help tech companies build high-performing development teams with top-tier talent from India.
+    link : "#strategy"
+  

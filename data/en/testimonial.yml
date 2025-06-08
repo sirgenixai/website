@@ -1,0 +1,12 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    - name : Sample
+      image : images/client/
+      image_webp : images/client/
+      details : Address, Location
+      content : >
+        "Sample text."

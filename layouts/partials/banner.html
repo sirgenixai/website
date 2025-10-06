@@ -10,6 +10,7 @@
 	<div class="block">
 		<div class="icon">
 			<img src="{{ .icon }}" />
+			<span>{{ .name | markdownify }}</span>
 		</div>
 		<h1>{{ .title | markdownify }}</h1>
 		<p>{{ .content | markdownify }}</p>

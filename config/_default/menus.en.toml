@@ -1,19 +1,19 @@
 
 ################### English Navigation ########################
 [[main]]
-name = "about"
-URL = "about"
+name = "services"
+URL = "feature"
 weight = 1
 
 [[main]]
-name = "solutions"
-URL = "solutions"
+name = "about"
+URL = "about"
 weight = 2
 
-[[main]]
-name = "services"
-URL = "services"
-weight = 3
+# [[main]]
+# name = "services"
+# URL = "services"
+# weight = 3
 
 # [[main]]
 # name = "blog"

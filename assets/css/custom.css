@@ -475,6 +475,15 @@ iframe {
 .hero-area .block .icon img {
   height: 90px;
   width: auto;
+  vertical-align: middle;
+}
+
+.hero-area .block .icon span {
+  font-size: 60px;
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: 700;
+  vertical-align: middle;
 }
 
 .hero-area .block h1 {
@@ -563,11 +572,11 @@ iframe {
 }
 
 .about .block.solutions {
-  background: #6a9913;
+  /* background: #6a9913; */
 }
 
 .about .block.services {
-  background: #235593;
+  /* background: #235593; */
 }
 
 .about .block.devsecops {

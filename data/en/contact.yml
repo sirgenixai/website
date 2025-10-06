@@ -11,9 +11,6 @@ contact:
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Pune, India."
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +91 982 306 9341"
    
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: contact@sirgenix.ai"
@@ -22,7 +19,7 @@ contact:
   # Contact form
   contact_form:
     enable : true
-    form_action : "https://formspree.io/f/" #contact form works with https://formspree.io
+    form_action : "https://formspree.io/f/manpblkn" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"

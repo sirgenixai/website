@@ -4,9 +4,10 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "images/icon.png"
-  title : "Software Services Reimagined"
-  content : "AI-native developers, fast delivery, clean code, strategic partnership."
+  name: "Sirgenix"
+  title : "Deliver, Partner, Create"
+  content : "AI-powered delivery, partnership, product creation."
   button:
     enable : true
     label : "Learn More"
-    link : "#about"
+    link : "#feature"

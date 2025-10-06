@@ -9,8 +9,8 @@ contact:
 
   # Contact details
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Pune, India."
+    # - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+    #   info : "Pune, India."
    
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: contact@sirgenix.ai"

@@ -1,38 +1,20 @@
-# Sirgenix Website
-Based on Hugo and the Meghna Theme
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-## Setup
+# Run and deploy your AI Studio app
 
-### Source code
-Clone the code and initialise git flow
-* Create a directory called `sirgenixai` to and `cd` into it
-* `git clone git@github.com:sirgenixai/website.git`
-* `cd website`
-* `git flow init`
-* `git pull --ff-only`
-* `git submodule update --init --recursive`
+This contains everything you need to run your app locally.
 
-### Install the build tools
-#### Linux
-* Check is snap is installed: `snap version`
-* Install snap if required: `sudo apt install snapd`
-* `snap install hugo --channel=extended`
-#### Windows
-Open shell as admin and install Chocolatey and then Hugo
-* `@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "[System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
-* `choco install hugo-extended -confirm`
+View your app in AI Studio: https://ai.studio/apps/99660344-1c6f-4af3-be06-c2bbb18f6dc3
 
-### Development and local testing
-* `cd sirgenixai/website`
-* `hugo server -D`
+## Run Locally
 
-### Instructions and Notes
-* Technology images in the `Our Skills` section have to be in PNG format and of height 90px.
+**Prerequisites:**  Node.js
 
-## Add a Content Page
-* Add a Blog Page
-  * `hugo new blog/page-name.md`
-  * The page link: `blog/page-name/`
-* Add a Product Page
-  * `hugo new products/page-name.md`
-  * The page link: `products/page-name/`
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

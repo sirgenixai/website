@@ -1,0 +1,21 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-dropbox # themify icon pack : https://themify.me/themify-icons
+    title : AI First
+    type: solutions
+    content : |
+      We are a team driven by a single mission: to transform bold ideas into disruptive products that redefine industries.<br /><br />
+      With deep engineering expertise and an AI-first approach, we turn concepts into scalable solutions—delivering innovation with speed, precision, and lasting impact.<br />
+      Our work bridges the gap between vision and reality, creating opportunities for growth in a rapidly evolving world.
+    link : "#solutions"
+
+  - icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+    title : Proven Model
+    type: services
+    content : |
+      Our founders bring decades of experience, having led multiple successful exits to Fortune 500 companies.<br /><br />
+      Over many years, they have created and refined the AI-powered engineering excellence model—an approach that enables us to deliver transformative solutions, partner closely with innovators, and create products that are innovative, scalable, and designed for lasting impact.
+    link : "#services"

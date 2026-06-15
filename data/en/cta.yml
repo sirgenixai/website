@@ -1,0 +1,14 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-main-cta.jpg"
+  bg_image_webp : "images/backgrounds/bg-main-cta.webp"
+  title : "Lets Deliver, Lets Partner, Lets Create."
+  content : |
+    We deliver innovation that drives real impact, powered by AI and engineered with precision.<br />
+    We partner to turn bold ideas into scalable products, working side by side to accelerate growth and redefine industries.<br />
+    We create solutions that shape the future—transforming vision into reality and setting new standards for what’s possible.
+  button:
+    enable : true
+    label : "Lets Talk"
+    link : "#contact"

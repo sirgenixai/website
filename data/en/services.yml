@@ -1,0 +1,68 @@
+################################# Services #################################
+services:
+  enable : true
+  title : Our Services
+  services_item :
+    - name : Full Stack Applications
+      type: services
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      content : >
+        Server-side applications across multiple frameworks, languages and databases.
+        Frontend web portals with real time statistical data representations.
+
+    - name : Mobile Applications
+      type: services
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content : >
+        iOS and Android applications both native with Objective-C, Swift, Java
+        as well as hybrid with React Native, Flutter and Ionic/Cordova/PhoneGap.
+
+    - name : Browser Engines
+      type: services
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : >
+        In-depth knowledge of open source browser engines such as Chromium and WebKit.
+        Customised browser engine development for specialised use cases.
+
+    - name : Cloud-Native Applications
+      type: services
+      icon : ti-dropbox # themify icon pack : https://themify.me/themify-icons
+      content : >
+        Microservices based scalable dockerised applications designed to be deployed
+        and orchestrated on-premise or on the cloud.
+
+    - name : Internet of Things
+      type: services
+      icon : ti-signal # themify icon pack : https://themify.me/themify-icons
+      content : >
+        Solutions built with C++ and Python for multiple use cases such as
+        Class 2 and 3 Medical Devices, customised WiFi routers to monitor and secure
+        Smart Home systems.
+
+    - name : AI/ML
+      type: services
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : >
+        Data analysis and classification, threat identification, sentiment analysis
+        and so on using paradigms, models and engines built with Python tools and libraries.
+
+    - name : Deployment Architecture
+      type: devsecops
+      icon : ti-layout-grid3 # themify icon pack : https://themify.me/themify-icons
+      content : >
+        Scalable and highly available designs for microservices and appliance
+        architectures both on-premise and cloud based with modern tools and infrastructures.
+
+    - name : CI/CD Pipelines
+      type: devsecops
+      icon : ti-align-justify # themify icon pack : https://themify.me/themify-icons
+      content : >
+        Design and manage CI/CD pipelines with complete automation and a security first
+        approach. Build and integrate automated tests with vulnerability assessment in mind.
+
+    - name : Cloud Infrastructure
+      type: devsecops
+      icon : ti-cloud-up # themify icon pack : https://themify.me/themify-icons
+      content : >
+        Manage deployments and implement deep integrations across multiple services provided
+        by AWS, Azure, GCP etc. including VPSs, Databases, Serverless and so on.

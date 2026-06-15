@@ -1,0 +1,91 @@
+################################# Skills ##################################
+skills:
+  enable : true
+  title : Our Skills
+  skills_item :
+    - name :  Chromium
+      image : images/skills/chromium.png
+
+    - name :  Elasticsearch
+      image : images/skills/elasticsearch.png
+
+    - name :  Apache Kafka
+      image : images/skills/kafka.png
+
+    - name :  Java
+      image : images/skills/java.png
+
+    - name :  MongoDB
+      image : images/skills/mongodb.png
+
+    - name :  NodeJS
+      image : images/skills/nodejs.png
+
+    - name :  Apache Guacamole
+      image : images/skills/guacamole.png
+
+    - name :  Serverless
+      image : images/skills/serverless.png
+
+    - name :  AWS
+      image : images/skills/aws.png
+
+    - name :  Apache Cassandra
+      image : images/skills/cassandra.png
+
+    - name :  Apache Spark
+      image : images/skills/spark.png
+
+    - name :  Go
+      image : images/skills/go.png
+
+    - name :  Python
+      image : images/skills/python.png
+
+    - name :  WebKit
+      image : images/skills/webkit.png
+
+    - name :  Android
+      image : images/skills/android.png
+
+    - name :  Swift (iOS)
+      image : images/skills/swift.png
+
+    - name :  Scala
+      image : images/skills/scala.png
+
+    - name :  Akka
+      image : images/skills/akka.png
+
+    - name :  C++
+      image : images/skills/c++.png
+
+    - name :  Microsoft Azure
+      image : images/skills/azure.png
+
+    - name :  Docker
+      image : images/skills/docker.png
+
+    - name :  ReactJS
+      image : images/skills/reactjs.png
+
+    - name :  Kubernetes
+      image : images/skills/kubernetes.png
+
+    - name :  CockroachDB
+      image : images/skills/cockroachdb.png
+
+    - name :  Envoy Proxy
+      image : images/skills/envoy.png
+
+    - name :  Google Cloud Platform
+      image : images/skills/gcp.png
+
+    - name :  Kibana
+      image : images/skills/kibana.png
+
+    - name :  HTML CSS Javascript
+      image : images/skills/html-css-js.png
+
+    - name :  PageSpeed
+      image : images/skills/pagespeed.png
